@@ -2,13 +2,15 @@
 
 ## Eu sou o César Amorim
 
+...Sou um aprendiz na busca de conhecimentos em desenvolvimento web front-end.<br>
+
 ##
 
 <div>
   <a href="https://github.com/amorimcesar" target="_blank">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimcesar&count_private=true&show_icons=true)]  (https://github.com/amorimcesar/github-readme-stats"/>
   </a>
-  <a href="https://github.com/amorimcesart" target="_blank">
+  <a href="https://github.com/amorimcesar" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimcesar&layout=compact)](https://github.com/amorimcesar/github-readme-stats"/>
   </a>
 </div>
