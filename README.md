@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://github.com/amorimcesar" target="_blank">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimcesar&count_private=true&show_icons=true)]  (https://github.com/amorimcesar/github-readme-stats"/>
+     <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=amorimcesar&count_private=true&show_icons=true)]  (https://github.com/amorimcesar/github-readme-stats](https://github-readme-stats.vercel.app/api?username=amorimcesar&count_private=true&show_icons=true)]%20%20(https://github.com/amorimcesar/github-readme-stats)"/>
   </a>
   <a href="https://github.com/amorimcesar" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimcesar&layout=compact)](https://github.com/amorimcesar/github-readme-stats"/>
