@@ -1,9 +1,15 @@
-<h1> Olá seja bem-vindo(a)! </h1>
+<h1> Welcome! </h1>
 
-<h2> Eu sou o César Amorim </h2>
+<h2> I'm César Amorim 👋 </h2>
 
 <div style="display: inline_block"><br>  
-  ...Sou um aprendiz na busca de conhecimentos em desenvolvimento web em front-end.<br>
+  
+  💻 Dev Front-end
+  🌱 Current learning HTML, CSS, JavaScript and React
+  🎓 Graduated in Design
+  🐶 Dog lover
+  ✈️ traveler
+
   <br>
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />         
