@@ -5,10 +5,8 @@
 <div style="display: inline_block"><br>  
   
   💻 Dev Front-end
+  <br>
   🌱 Current learning HTML, CSS, JavaScript and React
-  🎓 Graduated in Design
-  🐶 Dog lover
-  ✈️ traveler
 
   <br>
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
