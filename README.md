@@ -6,23 +6,24 @@
   
   💻 Dev Front-end
   <br>
-  🌱 Current learning HTML, CSS, JavaScript
+  🌱 Current learning HTML, CSS, JavaScript, React, Typescript & NodeJS
 
   <br>
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />         
   <img align="center" alt="Cesar-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Davi-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Davi-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Davi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Davi-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
 
 <br>
 
-<div>
-  <a href="https://github.com/amorimcesar" target="_blank">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimcesar&count_private=true&show_icons=true)]%20%20(https://github.com/amorimcesar/github-readme-stats"/>
-  </a>
-  <a href="https://github.com/amorimcesar" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimcesar&layout=compact)](https://github.com/amorimcesar/github-readme-stats"/>
-  </a>
+<div align="center">
+  <a href="https://github.com/amorimcesar">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amorimcesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimcesar&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 <div>
