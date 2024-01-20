@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋, I'm César</h2>
 <h3 align="left">A backend developer student from Brazil</h3>
 
-- 🌱 I’m currently studying **C#, JavaScript, NextJS**
+- 🌱 I’m currently studying **C#, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,8 @@
 </p>
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=amorimcesar&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=amorimcesar&show_icons=true&theme=swift)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimcesar&layout=donut)](https://github.com/amorimcesar/github-readme-stats)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -20,7 +21,6 @@
     <h3>Programming Languages</h3>
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
     <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
