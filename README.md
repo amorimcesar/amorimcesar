@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋, I'm César</h2>
 <h3 align="left">A backend developer student from Brazil</h3>
 
-- 🌱 I’m currently studying **C#, JavaScript**
+- 🌱 I’m currently studying **Software Engineering, C# and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
